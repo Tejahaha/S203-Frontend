@@ -145,7 +145,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
       <table className="table table-bordered table-striped mt-3">
         <thead className="table-dark">
           <tr>
-            <th>ID</th>
+            <th>IsadasdaasdaD</th>
             <th>Name</th>
             <th>OS</th>
             <th>Price</th>
